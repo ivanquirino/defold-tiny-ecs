@@ -5,7 +5,7 @@ This project packages the tiny-ecs Lua library into a defold library project. Th
 ## Usage
 
 ```lua
-local tiny = require("lib.tiny")
+local tiny = require("tinyecs.tiny")
 ```
 
 Please refer to the tiny-ecs repository for documentation: https://github.com/bakpakin/tiny-ecs/

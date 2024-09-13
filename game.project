@@ -1,5 +1,5 @@
 [bootstrap]
-main_collection = /main/main.collectionc
+main_collection = 
 
 [script]
 shared_state = 1
@@ -16,5 +16,5 @@ title = defold-tiny-ecs
 developer = Megacrab Games
 
 [library]
-include_dirs = lib
+include_dirs = tinyecs
 
